@@ -25,4 +25,4 @@ Areas of Interest --> Data Scientist, ML Engineer, Risk Analyst, Data Analyst
 
 ## 📫 Contact Me
 - **Email**: [mbaalajee99@gmail.com]
-- **LinkedIn**: [(https://[https://www.linkedin.com/in/madhumitha-b-8b7812216/)]
+- **LinkedIn**: [(https://www.linkedin.com/in/madhumitha-b-8b7812216/)]
