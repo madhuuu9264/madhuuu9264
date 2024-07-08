@@ -24,5 +24,5 @@ Areas of Interest --> Data Scientist, ML Engineer, Risk Analyst, Data Analyst
     ([https://github.com/madhuuu9264/MadhuPortfolioProjects/blob/main/British_Airways_Review_Dashboard(Tableau).png])**: This dashboard provides an overview of the British Airway Reviews such as the Cabin staff service, Ratings,Food, Entertainment etc
 
 ## 📫 Contact Me
-- **Email**: [madhu@example.com](mailto:mbaalajee99@gmail.com)
-- **LinkedIn**: [Madhumitha's LinkedIn](https://[https://www.linkedin.com/in/madhumitha-b-8b7812216/])
+- **Email**: [mbaalajee99@gmail.com]
+- **LinkedIn**: [(https://[https://www.linkedin.com/in/madhumitha-b-8b7812216/)]
