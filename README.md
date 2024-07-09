@@ -3,9 +3,9 @@
 
 Hi, I am Madhumitha.B, self-starter & driven data analyst professional . I am currently working as a Data Analyst at Bank of America on the Credit Risk of Loans. I am passionate about advancing my career towards becoming a Data Scientist. I aspire to work towards growing as a data scientist from discovering patterns and trends in datasets to uncover valuable insights and create algorithms and data models to forecast outcome and data driven decisions.
 
-Skills :
+Skills             : SQL, Python, ETL, Tableau, AWS, Excel, ML
 
-Areas of Interest: 
+Areas of Interest  : Data Science/Analytics, Machine Learning
 
 
 ## 🚀 Projects
