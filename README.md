@@ -10,8 +10,6 @@ Areas of Interest  : Data Science/Analytics, Machine Learning
 
 ## 🚀 Projects
 
-- **Uber-Pickup-analysis-using-Spatial-Temporal-Analysis-and-Geo-Spatial-Clustering([https://github.com/madhuuu9264/MadhuPortfolioProjects/blob/main/Uber_Data_Analysis_.ipynb])**: Uber-Pickup-analysis-using-Spatial-Temporal-Analysis-and-Geo-Spatial-Clustering
-
 - **Food Delivery Cost and Profitability Analysis([https://github.com/samarth0174/project2][https://github.com/madhuuu9264/MadhuPortfolioProjects/blob/main/Food%20Delivery%20Cost%20and%20Profitabality%20Analysis.ipynb])**: Develop a stratergy to increase the profitability of the existing food delivery process
 
 -  **Movie Correlation Analysis([https://github.com/madhuuu9264/MadhuPortfolioProjects/blob/main/Movie%20Correlation%20Project.ipynb])**: This analysis aims to find what fields in the given dataset correlates the most with a movie's gross earnings.
